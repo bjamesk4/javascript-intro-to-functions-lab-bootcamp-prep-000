@@ -14,6 +14,4 @@ function logWhisper(string) {
   console.log("hello")
 }
 
-function sayHiToGrandma(string) {
-  return I love you too.
-}
+function sayHiToGrandma(string) 
